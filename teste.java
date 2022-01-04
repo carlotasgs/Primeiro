@@ -19,15 +19,19 @@ public class Teste {
 		
 		in.close();
 		
+		int carlota=0;
+		
 		
 		public static int soma(int aPrimeiroNumer, int aSegundoNumero) {
 
 			int resultado = aPrimeiroNumero + aSegundoNumero;
 
 			}
+			;
 
 			return resultado;
 		
 	}
 		
 }
+
